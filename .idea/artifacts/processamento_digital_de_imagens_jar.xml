@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="processamento-digital-de-imagens:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/processamento_digital_de_imagens_jar</output-path>
+    <root id="archive" name="processamento-digital-de-imagens.jar">
+      <element id="module-output" name="processamento-digital-de-imagens" />
+    </root>
+  </artifact>
+</component>
